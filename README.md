@@ -1,0 +1,2 @@
+# Sophai
+I am beginner
